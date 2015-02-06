@@ -1,0 +1,15 @@
+1. “man” and “info”; “ctrl+c”
+2. These are files which names begin with a dot.
+3. “ls -a”
+4. Files that list and record what happened and has occurred.
+5. “head [OPT] FILE”, “tail [OPT] FILE”
+6. “less [OPT] FILE”
+7. “find” (or “grep [OPT] PATTERN [FILE…]”? Not sure)
+8. 
+9. 
+10.
+11. “COMMAND >> FILE”
+12. “ps -e”
+13. “ctrl + c“
+14. rm [OPT] FILE
+15. Cuz it deletes everything
