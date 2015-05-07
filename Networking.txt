@@ -1,0 +1,59 @@
+1.
+-TELNET: 
+	“provide a bidirectional interactive text-oriented communication 	facility using a virtual terminal connection”
+
+	992
+
+	Used for the system of a router.
+
+-FTP:
+	“transfer computer files from one host to another host over a TCP-	based network”
+
+	21
+
+	Default program in windows-explorer.exe
+
+
+-SSH:
+	“securing data communication”
+
+	22
+	
+	OpenBSD
+
+
+SFTP:
+
+	“ provides file access, file transfer, and file management 		functionalities over any reliable data stream.“
+
+	22
+
+	OpenSSH
+
+
+SMTP:
+	“an Internet standard for electronic mail (e-mail) transmission“
+
+	25
+
+	Gmail Outlook and a lot more
+
+
+
+2.
+
+
+3.
+“mstsc.exe”
+
+4.
+
+5.
+
+6.
+TCP is reliable, it requires interaction.
+UDP is faster.
+
+7.
+DNS directs and gives identity to websites, computers and servers. It directs visitor by changing the name of a domain(e.g. google.com) into its address e.g. xxx.xxx.xx.xx (whatever).
+We need it cuz without it, we’ll have to type in numerical addresses when trying to visit a site. I wouldn’t wanna do that.

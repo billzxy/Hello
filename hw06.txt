@@ -1,0 +1,42 @@
+1. JavaScript vs. Python:
+
+I would prefer Python. (I have never learned JavaScript.)
+JavaScript borrows a lot from C, and it is mostly used for scripts on websites.
+Whereas Python could be applied to a lot of different areas. And, in my opinion,
+Python is easier.
+
+2. PHP vs. Ruby:
+
+I have never learned both.
+Ruby is easier? (Some others' opinions)
+So I think Ruby is better.
+
+
+3. Java vs. C++:
+C++ takes more time to learn. And Java-programmers is in greater demand.
+So Java is better.
+
+4. C++ vs. Python:
+C++ is harder than Python. (At least CS1124 is harder than CS1114.)
+But I still prefet C++. Because I've found C++ more suitable for OOP.
+And C++ is challenging.
+
+5. Compiler(E.g. C) vs. Interpreter(E.g. Basic):
+I think interpretive languages are easier to learn.(Sounds like it.)
+But I prefer compiler because it is more efficient.
+Rather than interpret-one-line-then-run-one-line, compiler compiles all of
+the lines and run all lines at the same time.
+
+6.
+Scripting languages, for example JavaScript, are used basically on "apps,
+web sites, web browsers, shells, and embedded systems"(from wikipedia).
+They are interpretive languages.               
+
+7. Gaming:
+C++ is prefered for game development. Because C++ is more suitable for OOP.
+So it is better for development of big projects.
+
+8 Website:
+Scripting languages like PHP and JavaScript are for backend development.
+Whereas frontend development requires skills in Dreamweaver, Frontpage, Flash,
+and Photoshop.
